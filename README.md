@@ -1,9 +1,9 @@
 # Controllable-Marble-Maze
 
 ### What is Controllable-Marble-Maze?
-**Controllable-Marble-Maze** is the maze for marble that is controlled by 2 Servo Motors that get input from the Joystick. Also this project was created in a computer and robotics class for "Sci on the MOVE" or science week of grade 10, semester 2. 
+**Controllable-Marble-Maze** is the maze for marble that is controlled by 2 Servo Motors that get input from the Joystick. Objective of this game is to make marble to the otherside. Also this project was created in a computer and robotics class for "Sci on the MOVE" or science week of grade 10, semester 2. 
 <br>  
-**เขาวงกตลูกเหล็กแบบควบคุมได้** เป็นเขาวงกตลูกแก้วที่ควบคุมด้วย Servo Motor 2 ตัวที่รับค่าจาก Joystick นอกจากนี้โปรเจ็กต์นี้ยังสร้างขึ้นในชั้นเรียนคอมพิวเตอร์และหุ่นยนต์สำหรับ "Sci on The MOVE" หรือ "สัปดาห์วิทยาศาสตร์ ของชั้นมัธยมศึกษาปีที่ 4 ภาคเรียนที่ 2
+**เขาวงกตลูกเหล็กแบบควบคุมได้** เป็นเขาวงกตลูกแก้วที่ควบคุมด้วย Servo Motor 2 ตัวที่รับค่าจาก Joystick ส่วนเป้าหมายของเกมนี้คือการทำให้ลูกเหล็กไปสู่อีกฝั่งนึงให้ได้ นอกจากนี้โปรเจ็กต์นี้ยังสร้างขึ้นในชั้นเรียนคอมพิวเตอร์และหุ่นยนต์สำหรับ "Sci on The MOVE" หรือ "สัปดาห์วิทยาศาสตร์ ของชั้นมัธยมศึกษาปีที่ 4 ภาคเรียนที่ 2
 <br>
 <br>
 <br>
