@@ -10,7 +10,7 @@
 ### Method
 There are 2 Servo Motors that are locked in 90 degrees on only 2 sides of the maze, after Joystick is used, Servo Motor will rotate 90 degrees in the direction it gets and have ability for turning in 4 direction.
 <br>  
-โดยที่มี Servo Motor 2 ตัวที่ถูกล็อกไว้ที่ 90 องศาบน 2 ด้านของเขาวงกต     หลังจากใช้ Joystick Servo Motor จะหมุน 90 องศาในทิศทางที่มันได้รับค่ามาซึ่งสามารถหมุนได้ 4 ทิศทางด้วยกัน
+โดยที่มี Servo Motor 2 ตัวที่ถูกล็อกไว้ที่ 90 องศาบน 2 ด้านของเขาวงกต     หลังจากใช้ Joystick จะทำให้ Servo Motor จะหมุน 90 องศาในทิศทางที่มันได้รับค่ามาซึ่งสามารถหมุนได้ 4 ทิศทางด้วยกัน
 <br>
 <br>
 <br>
